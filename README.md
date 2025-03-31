@@ -6,7 +6,7 @@
 		<img src="https://nestjs.com/img/logo-small.svg" width="160" alt="Nest Logo" class="logo-img" />
 	</a>
 </p>
-<head>
+<script>
 <style>
   .logo-container {
     display: flex;
@@ -29,7 +29,7 @@
     transition: transform 0.3s ease;
   }
 </style>
-</head>
+</script>
 
 
 
