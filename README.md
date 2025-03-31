@@ -1,35 +1,9 @@
-<p class="logo-container">
-	<a href="https://cocos.capital/" target="_blank" class="logo-link">
-		<img src="./logo.png" width="160" alt="Cocos Capital Logo" class="logo-img" />
-	</a>
-	<a href="http://nestjs.com/" target="_blank" class="logo-link">
-		<img src="https://nestjs.com/img/logo-small.svg" width="160" alt="Nest Logo" class="logo-img" />
-	</a>
-</p>
-<script>
-<style>
-  .logo-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 50px;
-    padding: 20px;
-  }
+# Logos
 
-  .logo-link {
-    display: inline-block;
-    transition: transform 0.3s ease;
-  }
+[![Cocos Capital Logo](./logo.png)](https://cocos.capital/)
 
-  .logo-link:hover .logo-img {
-    transform: scale(1.1);
-  }
+[![NestJS Logo](https://nestjs.com/img/logo-small.svg)](http://nestjs.com/)
 
-  .logo-img {
-    transition: transform 0.3s ease;
-  }
-</style>
-</script>
 
 
 
