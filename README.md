@@ -1,9 +1,11 @@
-# Logos
-
-[![Cocos Capital Logo](./logo.png)](https://cocos.capital/)
-
-[![NestJS Logo](https://nestjs.com/img/logo-small.svg)](http://nestjs.com/)
-
+<p align="center">
+  <a href="https://cocos.capital/" target="_blank">
+    <img src="./logo.png" alt="Cocos Capital Logo" width="260">
+  </a> &nbsp; &nbsp;
+  <a href="http://nestjs.com/" target="_blank">
+    <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS Logo" width="260">
+  </a>
+</p>
 
 
 
